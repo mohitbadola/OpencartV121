@@ -1,512 +1,65 @@
-2024-12-11 13:01:50 INFO  Utils:112 - [TestNG] Running:
-  D:\projects\OpencartV121\grid-docker.xml
-
-2024-12-11 13:02:48 INFO  Utils:112 - [TestNG] Running:
-  D:\projects\OpencartV121\grid-docker.xml
-
-2024-12-11 13:07:35 INFO  Utils:112 - [TestNG] Running:
-  D:\projects\OpencartV121\grid-docker.xml
-
-2024-12-11 13:07:39 INFO  TC001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest *****
-2024-12-11 13:07:39 INFO  TC001_AccountRegistrationTest:21 - clicked on MyAccount Link...
-2024-12-11 13:07:39 INFO  TC001_AccountRegistrationTest:24 - clicked on Register Link...
-2024-12-11 13:07:39 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-12-11 13:07:40 INFO  TC001_AccountRegistrationTest:40 - Validating expected message...
-2024-12-11 13:07:40 INFO  TC001_AccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2024-12-11 13:07:42 INFO  TC002_LoginTest:14 - ***** Starting TC002_LoginTest *****
-2024-12-11 13:07:43 INFO  TC002_LoginTest:38 - ***** Finished TC_002_LoginTest *****
-2024-12-11 13:07:48 INFO  TC001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest *****
-2024-12-11 13:07:48 INFO  TC001_AccountRegistrationTest:21 - clicked on MyAccount Link...
-2024-12-11 13:07:49 INFO  TC001_AccountRegistrationTest:24 - clicked on Register Link...
-2024-12-11 13:07:49 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-12-11 13:07:49 INFO  TC001_AccountRegistrationTest:40 - Validating expected message...
-2024-12-11 13:07:49 INFO  TC001_AccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2024-12-11 13:07:53 INFO  TC002_LoginTest:14 - ***** Starting TC002_LoginTest *****
-2024-12-11 13:07:54 INFO  TC002_LoginTest:38 - ***** Finished TC_002_LoginTest *****
-2024-12-11 13:08:26 INFO  Utils:112 - [TestNG] Running:
-  D:\projects\OpencartV121\grid-docker.xml
-
-2024-12-11 13:08:28 INFO  TC001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest *****
-2024-12-11 13:08:28 INFO  TC001_AccountRegistrationTest:21 - clicked on MyAccount Link...
-2024-12-11 13:08:29 INFO  TC001_AccountRegistrationTest:24 - clicked on Register Link...
-2024-12-11 13:08:29 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-12-11 13:08:29 INFO  TC001_AccountRegistrationTest:40 - Validating expected message...
-2024-12-11 13:08:29 INFO  TC001_AccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2024-12-11 13:08:31 INFO  TC002_LoginTest:14 - ***** Starting TC002_LoginTest *****
-2024-12-11 13:08:32 INFO  TC002_LoginTest:38 - ***** Finished TC_002_LoginTest *****
-2024-12-11 13:08:37 INFO  TC001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest *****
-2024-12-11 13:08:37 INFO  TC001_AccountRegistrationTest:21 - clicked on MyAccount Link...
-2024-12-11 13:08:37 INFO  TC001_AccountRegistrationTest:24 - clicked on Register Link...
-2024-12-11 13:08:37 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-12-11 13:08:37 INFO  TC001_AccountRegistrationTest:40 - Validating expected message...
-2024-12-11 13:08:38 INFO  TC001_AccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2024-12-11 13:08:42 INFO  TC002_LoginTest:14 - ***** Starting TC002_LoginTest *****
-2024-12-11 13:08:43 INFO  TC002_LoginTest:38 - ***** Finished TC_002_LoginTest *****
-2024-12-11 13:10:38 INFO  Utils:112 - [TestNG] Running:
-  D:\projects\OpencartV121\grid-docker.xml
-
-2024-12-11 13:10:40 INFO  TC001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest *****
-2024-12-11 13:10:41 INFO  TC001_AccountRegistrationTest:21 - clicked on MyAccount Link...
-2024-12-11 13:10:41 INFO  TC001_AccountRegistrationTest:24 - clicked on Register Link...
-2024-12-11 13:10:41 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-12-11 13:10:41 INFO  TC001_AccountRegistrationTest:40 - Validating expected message...
-2024-12-11 13:10:42 INFO  TC001_AccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2024-12-11 13:10:43 INFO  TC002_LoginTest:14 - ***** Starting TC002_LoginTest *****
-2024-12-11 13:10:44 INFO  TC002_LoginTest:38 - ***** Finished TC_002_LoginTest *****
-2024-12-11 13:10:49 INFO  TC001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest *****
-2024-12-11 13:10:49 INFO  TC001_AccountRegistrationTest:21 - clicked on MyAccount Link...
-2024-12-11 13:10:49 INFO  TC001_AccountRegistrationTest:24 - clicked on Register Link...
-2024-12-11 13:10:49 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-12-11 13:10:50 INFO  TC001_AccountRegistrationTest:40 - Validating expected message...
-2024-12-11 13:10:50 INFO  TC001_AccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2024-12-11 13:10:54 INFO  TC002_LoginTest:14 - ***** Starting TC002_LoginTest *****
-2024-12-11 13:10:55 INFO  TC002_LoginTest:38 - ***** Finished TC_002_LoginTest *****
-2024-12-11 13:13:40 INFO  Utils:112 - [TestNG] Running:
-  D:\projects\OpencartV121\grid-docker.xml
-
-2024-12-11 13:13:42 INFO  TC001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest *****
-2024-12-11 13:13:43 INFO  TC001_AccountRegistrationTest:21 - clicked on MyAccount Link...
-2024-12-11 13:13:43 INFO  TC001_AccountRegistrationTest:24 - clicked on Register Link...
-2024-12-11 13:13:43 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-12-11 13:13:43 INFO  TC001_AccountRegistrationTest:40 - Validating expected message...
-2024-12-11 13:13:43 INFO  TC001_AccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2024-12-11 13:13:45 INFO  TC002_LoginTest:14 - ***** Starting TC002_LoginTest *****
-2024-12-11 13:13:46 INFO  TC002_LoginTest:38 - ***** Finished TC_002_LoginTest *****
-2024-12-11 13:13:50 INFO  TC001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest *****
-2024-12-11 13:13:51 INFO  TC001_AccountRegistrationTest:21 - clicked on MyAccount Link...
-2024-12-11 13:13:52 INFO  TC001_AccountRegistrationTest:24 - clicked on Register Link...
-2024-12-11 13:13:52 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-12-11 13:13:52 INFO  TC001_AccountRegistrationTest:40 - Validating expected message...
-2024-12-11 13:13:53 INFO  TC001_AccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2024-12-11 13:13:57 INFO  TC002_LoginTest:14 - ***** Starting TC002_LoginTest *****
-2024-12-11 13:13:58 INFO  TC002_LoginTest:38 - ***** Finished TC_002_LoginTest *****
-2024-12-11 13:25:15 INFO  Utils:112 - [TestNG] Running:
-  D:\projects\OpencartV121\grid-docker.xml
-
-2024-12-11 13:25:17 INFO  TC001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest *****
-2024-12-11 13:25:17 INFO  TC001_AccountRegistrationTest:21 - clicked on MyAccount Link...
-2024-12-11 13:25:18 INFO  TC001_AccountRegistrationTest:24 - clicked on Register Link...
-2024-12-11 13:25:18 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-12-11 13:25:18 INFO  TC001_AccountRegistrationTest:40 - Validating expected message...
-2024-12-11 13:25:18 INFO  TC001_AccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2024-12-11 13:25:20 INFO  TC002_LoginTest:14 - ***** Starting TC002_LoginTest *****
-2024-12-11 13:25:21 INFO  TC002_LoginTest:38 - ***** Finished TC_002_LoginTest *****
-2024-12-11 13:25:25 INFO  TC001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest *****
-2024-12-11 13:25:26 INFO  TC001_AccountRegistrationTest:21 - clicked on MyAccount Link...
-2024-12-11 13:25:26 INFO  TC001_AccountRegistrationTest:24 - clicked on Register Link...
-2024-12-11 13:25:26 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-12-11 13:25:26 INFO  TC001_AccountRegistrationTest:40 - Validating expected message...
-2024-12-11 13:25:27 INFO  TC001_AccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2024-12-11 13:25:30 INFO  TC002_LoginTest:14 - ***** Starting TC002_LoginTest *****
-2024-12-11 13:25:31 INFO  TC002_LoginTest:38 - ***** Finished TC_002_LoginTest *****
-2024-12-11 13:25:47 INFO  Utils:112 - [TestNG] Running:
-  D:\projects\OpencartV121\grid-docker.xml
-
-2024-12-11 13:25:49 INFO  TC001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest *****
-2024-12-11 13:25:49 INFO  TC001_AccountRegistrationTest:21 - clicked on MyAccount Link...
-2024-12-11 13:25:50 INFO  TC001_AccountRegistrationTest:24 - clicked on Register Link...
-2024-12-11 13:25:50 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-12-11 13:25:50 INFO  TC001_AccountRegistrationTest:40 - Validating expected message...
-2024-12-11 13:25:50 INFO  TC001_AccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2024-12-11 13:25:52 INFO  TC002_LoginTest:14 - ***** Starting TC002_LoginTest *****
-2024-12-11 13:25:53 INFO  TC002_LoginTest:38 - ***** Finished TC_002_LoginTest *****
-2024-12-11 13:25:58 INFO  TC001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest *****
-2024-12-11 13:25:58 INFO  TC001_AccountRegistrationTest:21 - clicked on MyAccount Link...
-2024-12-11 13:25:58 INFO  TC001_AccountRegistrationTest:24 - clicked on Register Link...
-2024-12-11 13:25:58 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-12-11 13:25:58 INFO  TC001_AccountRegistrationTest:40 - Validating expected message...
-2024-12-11 13:25:59 INFO  TC001_AccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2024-12-11 13:26:03 INFO  TC002_LoginTest:14 - ***** Starting TC002_LoginTest *****
-2024-12-11 13:26:04 INFO  TC002_LoginTest:38 - ***** Finished TC_002_LoginTest *****
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:05:36 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 0 ms.
-2024-12-11 14:05:38 INFO  TC001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest *****
-2024-12-11 14:05:39 INFO  TC001_AccountRegistrationTest:21 - clicked on MyAccount Link...
-2024-12-11 14:05:39 INFO  TC001_AccountRegistrationTest:24 - clicked on Register Link...
-2024-12-11 14:05:39 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-12-11 14:05:39 INFO  TC001_AccountRegistrationTest:40 - Validating expected message...
-2024-12-11 14:05:40 INFO  TC001_AccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2024-12-11 14:05:42 INFO  TC002_LoginTest:14 - ***** Starting TC002_LoginTest *****
-2024-12-11 14:05:43 INFO  TC002_LoginTest:38 - ***** Finished TC_002_LoginTest *****
-2024-12-11 14:05:44 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@24a86066: 95 ms
-2024-12-11 14:05:44 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@54402c04: 0 ms
-2024-12-11 14:05:45 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@47d023b7: 25 ms
-2024-12-11 14:05:45 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7f37b6d9: 7 ms
-2024-12-11 14:05:45 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6e43ddd6: 7 ms
-2024-12-11 14:05:45 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@51d719bc: 0 ms
-2024-12-11 14:06:59 INFO  Utils:112 - [TestNG] Running:
-  D:\projects\OpencartV121\grid-docker.xml
-
-2024-12-11 14:07:07 INFO  TC001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest *****
-2024-12-11 14:07:07 INFO  TC001_AccountRegistrationTest:21 - clicked on MyAccount Link...
-2024-12-11 14:07:07 INFO  TC001_AccountRegistrationTest:24 - clicked on Register Link...
-2024-12-11 14:07:07 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-12-11 14:07:08 INFO  TC001_AccountRegistrationTest:40 - Validating expected message...
-2024-12-11 14:07:09 INFO  TC001_AccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2024-12-11 14:07:11 INFO  TC002_LoginTest:14 - ***** Starting TC002_LoginTest *****
-2024-12-11 14:07:13 INFO  TC002_LoginTest:38 - ***** Finished TC_002_LoginTest *****
-2024-12-11 14:07:19 INFO  TC001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest *****
-2024-12-11 14:07:19 INFO  TC001_AccountRegistrationTest:21 - clicked on MyAccount Link...
-2024-12-11 14:07:20 INFO  TC001_AccountRegistrationTest:24 - clicked on Register Link...
-2024-12-11 14:07:20 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-12-11 14:07:20 INFO  TC001_AccountRegistrationTest:40 - Validating expected message...
-2024-12-11 14:07:20 INFO  TC001_AccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2024-12-11 14:07:26 INFO  TC002_LoginTest:14 - ***** Starting TC002_LoginTest *****
-2024-12-11 14:07:28 INFO  TC002_LoginTest:38 - ***** Finished TC_002_LoginTest *****
-2024-12-11 14:15:53 INFO  Utils:112 - [TestNG] Running:
-  D:\projects\OpencartV121\grid-docker.xml
-
-2024-12-11 14:15:56 INFO  TC001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest *****
-2024-12-11 14:15:56 INFO  TC001_AccountRegistrationTest:21 - clicked on MyAccount Link...
-2024-12-11 14:15:56 INFO  TC001_AccountRegistrationTest:24 - clicked on Register Link...
-2024-12-11 14:15:56 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-12-11 14:15:57 INFO  TC001_AccountRegistrationTest:40 - Validating expected message...
-2024-12-11 14:15:59 INFO  TC001_AccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2024-12-11 14:16:01 INFO  TC002_LoginTest:14 - ***** Starting TC002_LoginTest *****
-2024-12-11 14:26:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:26:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
-2024-12-11 14:26:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:26:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:26:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:26:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:26:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:26:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:26:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 15 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:26:47 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 15 ms.
-2024-12-11 14:26:49 INFO  TC001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest *****
-2024-12-11 14:26:49 INFO  TC001_AccountRegistrationTest:21 - clicked on MyAccount Link...
-2024-12-11 14:26:50 INFO  TC001_AccountRegistrationTest:24 - clicked on Register Link...
-2024-12-11 14:26:50 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-12-11 14:26:50 INFO  TC001_AccountRegistrationTest:40 - Validating expected message...
-2024-12-11 14:26:53 INFO  TC001_AccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2024-12-11 14:26:55 INFO  TC002_LoginTest:14 - ***** Starting TC002_LoginTest *****
-2024-12-11 14:26:57 INFO  TC002_LoginTest:38 - ***** Finished TC_002_LoginTest *****
-2024-12-11 14:26:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@3f1a4795: 202 ms
-2024-12-11 14:26:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@6a6f6c7e: 0 ms
-2024-12-11 14:26:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@2fdf17dc: 16 ms
-2024-12-11 14:26:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@503df2d0: 12 ms
-2024-12-11 14:26:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@655a01d8: 13 ms
-2024-12-11 14:26:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@c29fe36: 0 ms
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 15 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:55 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 15 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:28:57 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 0 ms.
-2024-12-11 14:28:58 INFO  TC001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest *****
-2024-12-11 14:28:58 INFO  TC001_AccountRegistrationTest:21 - clicked on MyAccount Link...
-2024-12-11 14:28:58 INFO  TC001_AccountRegistrationTest:24 - clicked on Register Link...
-2024-12-11 14:28:58 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-12-11 14:28:59 INFO  TC001_AccountRegistrationTest:40 - Validating expected message...
-2024-12-11 14:28:59 INFO  TC001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest *****
-2024-12-11 14:28:59 INFO  TC001_AccountRegistrationTest:21 - clicked on MyAccount Link...
-2024-12-11 14:28:59 INFO  TC001_AccountRegistrationTest:24 - clicked on Register Link...
-2024-12-11 14:28:59 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-12-11 14:28:59 INFO  TC001_AccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2024-12-11 14:29:00 INFO  TC001_AccountRegistrationTest:40 - Validating expected message...
-2024-12-11 14:29:00 INFO  TC001_AccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2024-12-11 14:29:02 INFO  TC002_LoginTest:14 - ***** Starting TC002_LoginTest *****
-2024-12-11 14:29:02 INFO  TC002_LoginTest:14 - ***** Starting TC002_LoginTest *****
-2024-12-11 14:29:03 INFO  TC002_LoginTest:38 - ***** Finished TC_002_LoginTest *****
-2024-12-11 14:29:03 INFO  TC002_LoginTest:38 - ***** Finished TC_002_LoginTest *****
-2024-12-11 14:29:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@6a6f6c7e: 79 ms
-2024-12-11 14:29:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@6c5ddccd: 0 ms
-2024-12-11 14:29:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@6e6d4780: 7 ms
-2024-12-11 14:29:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@26fb4d06: 8 ms
-2024-12-11 14:29:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@c29fe36: 6 ms
-2024-12-11 14:29:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6614bd4b: 0 ms
-2024-12-11 14:29:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@3f1a4795: 118 ms
-2024-12-11 14:29:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@6a6f6c7e: 0 ms
-2024-12-11 14:29:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@2fdf17dc: 7 ms
-2024-12-11 14:29:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@503df2d0: 7 ms
-2024-12-11 14:29:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@655a01d8: 0 ms
-2024-12-11 14:29:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@c29fe36: 0 ms
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-11 14:29:49 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-11 14:29:50 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 15 ms.
-2024-12-11 14:29:52 INFO  TC001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest *****
-2024-12-11 14:29:52 INFO  TC001_AccountRegistrationTest:21 - clicked on MyAccount Link...
-2024-12-11 14:29:52 INFO  TC001_AccountRegistrationTest:24 - clicked on Register Link...
-2024-12-11 14:29:52 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-12-11 14:29:53 INFO  TC001_AccountRegistrationTest:40 - Validating expected message...
-2024-12-11 14:29:55 INFO  TC001_AccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2024-12-11 14:29:57 INFO  TC002_LoginTest:14 - ***** Starting TC002_LoginTest *****
-2024-12-11 14:29:58 INFO  TC002_LoginTest:38 - ***** Finished TC_002_LoginTest *****
-2024-12-11 14:30:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@6a6f6c7e: 103 ms
-2024-12-11 14:30:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@6c5ddccd: 0 ms
-2024-12-11 14:30:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@6e6d4780: 34 ms
-2024-12-11 14:30:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@26fb4d06: 7 ms
-2024-12-11 14:30:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@c29fe36: 23 ms
-2024-12-11 14:30:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6614bd4b: 0 ms
-2024-12-11 18:41:53 INFO  Utils:112 - [TestNG] Running:
-  D:\projects\OpencartV121\grid-docker.xml
-
-2024-12-11 18:41:56 INFO  TC001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest *****
-2024-12-11 18:41:57 INFO  TC001_AccountRegistrationTest:21 - clicked on MyAccount Link...
-2024-12-11 18:41:57 INFO  TC001_AccountRegistrationTest:24 - clicked on Register Link...
-2024-12-11 18:41:57 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-12-11 18:41:57 INFO  TC001_AccountRegistrationTest:40 - Validating expected message...
-2024-12-11 18:41:58 INFO  TC001_AccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2024-12-11 18:41:59 INFO  TC002_LoginTest:14 - ***** Starting TC002_LoginTest *****
-2024-12-11 18:42:00 INFO  TC002_LoginTest:38 - ***** Finished TC_002_LoginTest *****
-2024-12-11 18:42:05 INFO  TC001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest *****
-2024-12-11 18:42:06 INFO  TC001_AccountRegistrationTest:21 - clicked on MyAccount Link...
-2024-12-11 18:42:06 INFO  TC001_AccountRegistrationTest:24 - clicked on Register Link...
-2024-12-11 18:42:06 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-12-11 18:42:06 INFO  TC001_AccountRegistrationTest:40 - Validating expected message...
-2024-12-11 18:42:07 INFO  TC001_AccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2024-12-11 18:42:11 INFO  TC002_LoginTest:14 - ***** Starting TC002_LoginTest *****
-2024-12-11 18:42:12 INFO  TC002_LoginTest:38 - ***** Finished TC_002_LoginTest *****
-2024-12-11 18:44:37 INFO  Utils:112 - [TestNG] Running:
-  D:\projects\OpencartV121\grid-docker.xml
-
-2024-12-11 18:44:40 INFO  TC001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest *****
-2024-12-11 18:44:40 INFO  TC001_AccountRegistrationTest:21 - clicked on MyAccount Link...
-2024-12-11 18:44:40 INFO  TC001_AccountRegistrationTest:24 - clicked on Register Link...
-2024-12-11 18:44:40 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-12-11 18:44:40 INFO  TC001_AccountRegistrationTest:40 - Validating expected message...
-2024-12-11 18:44:41 INFO  TC001_AccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2024-12-11 18:44:43 INFO  TC002_LoginTest:14 - ***** Starting TC002_LoginTest *****
-2024-12-11 18:44:44 INFO  TC002_LoginTest:38 - ***** Finished TC_002_LoginTest *****
-2024-12-11 18:44:49 INFO  TC001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest *****
-2024-12-11 18:44:49 INFO  TC001_AccountRegistrationTest:21 - clicked on MyAccount Link...
-2024-12-11 18:44:49 INFO  TC001_AccountRegistrationTest:24 - clicked on Register Link...
-2024-12-11 18:44:49 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
-2024-12-11 18:44:49 INFO  TC001_AccountRegistrationTest:40 - Validating expected message...
-2024-12-11 18:44:50 INFO  TC001_AccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2024-12-11 18:44:54 INFO  TC002_LoginTest:14 - ***** Starting TC002_LoginTest *****
-2024-12-11 18:44:55 INFO  TC002_LoginTest:38 - ***** Finished TC_002_LoginTest *****
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-12 00:13:14 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2024-12-12 00:13:23 INFO  TC001_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest *****
+2024-12-12 00:13:23 INFO  TC001_AccountRegistrationTest:21 - clicked on MyAccount Link...
+2024-12-12 00:13:24 INFO  TC001_AccountRegistrationTest:24 - clicked on Register Link...
+2024-12-12 00:13:24 INFO  TC001_AccountRegistrationTest:29 - Providing customer details...
+2024-12-12 00:13:24 INFO  TC001_AccountRegistrationTest:40 - Validating expected message...
+2024-12-12 00:13:24 INFO  TC001_AccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-12 00:13:26 INFO  TC002_LoginTest:14 - ***** Starting TC002_LoginTest *****
+2024-12-12 00:13:27 INFO  TC002_LoginTest:38 - ***** Finished TC_002_LoginTest *****
+2024-12-12 00:13:29 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@4f94e148: 55 ms
+2024-12-12 00:13:29 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@7ff8a9dc: 1 ms
+2024-12-12 00:13:29 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@c29fe36: 10 ms
+2024-12-12 00:13:29 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@77681ce4: 9 ms
+2024-12-12 00:13:29 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7da39774: 7 ms
+2024-12-12 00:13:29 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@441b8382: 0 ms
